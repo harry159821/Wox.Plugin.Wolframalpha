@@ -7,12 +7,12 @@ Wolframalpha Plugin For Wox
 
 How to use
 =======================
-1.Random
-	input 'Wolframalpha ',	
-	There will show a random question.
-2.PreView
-	such as input 'Wolframalpha who',
-	some relevant Keyword will be showed.
-3.Search it
-	input more a space:'Wolframalpha who ',
-	search result appeard.
+1.Random<br>
+	input 'Wolframalpha ',<br>	
+	There will show a random question.<br>
+2.PreView<br>
+	such as input 'Wolframalpha who',<br>
+	some relevant Keyword will be showed.<br>
+3.Search it<br>
+	input more a space:'Wolframalpha who ',<br>
+	search result appeard.<br>
