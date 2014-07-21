@@ -19,5 +19,11 @@ Wolframalpha Plugin For Wox
 
 ### 3.Search it
 
-	####input more a space:'Wolframalpha who ',
-	####search result appeard.
+	input more a space:'Wolframalpha who ',
+	search result appeard.
+
+##<a name="text"/>显示文本
+###普通文本
+这是一段普通的文本，
+直接回车不能换行，<br>
+要使用\<br>
