@@ -3,4 +3,4 @@ Wox.Plugin.Wolframalpha
 
 Wolframalpha Plugin For Wox
 
-![](wolframalpha.gif)
+![](https://github.com/harry159821/Wox.Plugin.Wolframalpha/raw/master/wolframalpha.gif)
