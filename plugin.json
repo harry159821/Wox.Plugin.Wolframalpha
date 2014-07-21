@@ -1,0 +1,12 @@
+{
+    "ID":"1",
+    "ActionKeyword":"wolframalpha",
+    "Name":"wolframalpha",
+    "Description":"wolframalpha",
+    "Author":"harry159821",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/harry159821/Wox.Plugin.Wolframalpha",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"icon.png"
+}
